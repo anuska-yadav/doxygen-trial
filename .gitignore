@@ -1,0 +1,9 @@
+# Generated Doxygen documentation
+html/
+latex/
+
+# Backup configuration
+Doxyfile.bak
+
+# System files
+.DS_Store
